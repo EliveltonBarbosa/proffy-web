@@ -15,7 +15,7 @@
   ```sh
     npm run start
   ```
- > Caso tenha alterado a porta padrão da api [proffy-server](https://github.com/EliveltonBarbosa/proffy-server)será necessário atualizar a o valor da baseURL em [api.ts](src/services/api.ts).
+ > Caso tenha alterado a porta padrão da api [proffy-server](https://github.com/EliveltonBarbosa/proffy-server) será necessário atualizar a o valor da baseURL em [api.ts](src/services/api.ts).
     
   ## Meta
 
